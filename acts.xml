@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<acts>
+  <act14 numkf="0" rb="true" vk="0" numvag="15ВАГОНОВ" otpravka="31.12.2014" napr="0" type="1" og="1" ves="984" hmr="1" sob="0" time1="01 янв 2015-22:00" time2="02 янв 2015-03:00" kol="15" />
+  <act98 numkf="0" rb="true" vk="1" numvag="7872629" otpravka="08.01.2015" napr="0" type="1" og="1" ves="15" hmr="1" sob="1" time1="10 янв 2015-00:30" time2="10 янв 2015-14:00" kol="1" />
+  <act111 numkf="0" rb="true" vk="1" numvag="94514676" otpravka="08.01.2015" napr="0" type="1" og="1" ves="26" hmr="1" sob="1" time1="12 янв 2015-16:00" time2="13 янв 2015-13:00" kol="1" />
+  <act112 numkf="0" rb="true" vk="0" numvag="52406865" otpravka="12.01.2015" napr="1" type="0" og="1" ves="0" hmr="1" sob="0" time1="13 янв 2015-13:00" time2="13 янв 2015-15:20" kol="1" />
+  <act211 numkf="0" rb="true" vk="1" numvag="94543956" otpravka="14.01.2015" napr="0" type="1" og="1" ves="7" hmr="1" sob="1" time1="16 янв 2015-11:30" time2="20 янв 2015-18:20" kol="1" />
+  <act239 numkf="0" rb="false" vk="0" numvag="52469111" otpravka="14.01.2015" napr="0" type="0" og="1" ves="000" hmr="1" sob="0" time1="22 янв 2015-21:00" time2="23 янв 2015-13:00" kol="1" />
+  <act332 numkf="0" rb="true" vk="0" numvag="52147295" otpravka="28.01.2015" napr="1" type="0" og="1" ves="0" hmr="1" sob="0" time1="29 янв 2015-14:00" time2="29 янв 2015-17:30" kol="1" />
+  <act387 numkf="0" rb="true" vk="1" numvag="94342201" otpravka="30.01.2015" napr="0" type="1" og="1" ves="25" hmr="1" sob="1" time1="01 фев 2015-11:00" time2="02 фев 2015-10:00" kol="1" />
+  <act439 numkf="0" rb="true" vk="0" numvag=" 58269085" otpravka="31.01.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="06 фев 2015-11:47" time2="06 фев 2015-17:23" kol="1" />
+  <act458 numkf="0" rb="true" vk="1" numvag="8081433" otpravka="04.02.2015" napr="0" type="1" og="1" ves="26" hmr="1" sob="1" time1="07 фев 2015-03:00" time2="07 фев 2015-14:30" kol="1" />
+  <act480 numkf="0" rb="false" vk="0" numvag="8 ВАГОНОВ" otpravka="07.02.2015" napr="0" type="1" og="1" ves="115" hmr="1" sob="0" time1="08 фев 2015-20:45" time2="09 фев 2015-11:45" kol="8" />
+  <act481 numkf="0" rb="false" vk="0" numvag="24621583" otpravka="06.02.2015" napr="0" type="0" og="1" ves="68" hmr="1" sob="0" time1="08 фев 2015-15:54" time2="09 фев 2015-11:30" kol="1" />
+  <act252 numkf="0" rb="false" vk="0" numvag="1 ВАГОН " otpravka="09.02.2015" napr="0" type="1" og="0" ves="0" hmr="0.5" sob="0" time1="09 фев 2015-01:31" time2="09 фев 2015-09:30" kol="1" />
+  <act527 numkf="0" rb="true" vk="0" numvag="50817329, 58199134, 50517986, 50898741" otpravka="08.02.2015" napr="0" type="1" og="1" ves="000" hmr="1" sob="0" time1="11 фев 2015-22:10" time2="12 фев 2015-16:25" kol="4" />
+  <act605 numkf="0" rb="true" vk="0" numvag="94710118" otpravka="14.02.2015" napr="0" type="1" og="1" ves="19" hmr="1" sob="1" time1="16 фев 2015-15:00" time2="17 фев 2015-14:00" kol="1" />
+  <act627 numkf="0" rb="true" vk="0" numvag="80024748" otpravka="13.02.2015" napr="0" type="1" og="1" ves="60" hmr="1" sob="0" time1="18 фев 2015-08:00" time2="19 фев 2015-09:00" kol="1" />
+  <act684 numkf="0" rb="true" vk="0" numvag="42786079, 43804673" otpravka="17.02.2015" napr="1" type="0" og="1" ves="000" hmr="1" sob="0" time1="20 фев 2015-18:00" time2="23 фев 2015-11:00" kol="2" />
+  <act705 numkf="0" rb="true" vk="0" numvag="58164120" otpravka="15.02.2015" napr="0" type="1" og="1" ves="000" hmr="1" sob="0" time1="22 фев 2015-04:39" time2="24 фев 2015-16:55" kol="1" />
+  <act706 numkf="0" rb="true" vk="0" numvag="50518026,   58152158" otpravka="15.02.2015" napr="0" type="1" og="1" ves="000" hmr="1" sob="0" time1="21 фев 2015-18:20" time2="24 фев 2015-16:55" kol="2" />
+  <act707 numkf="0" rb="true" vk="0" numvag="50517945" otpravka="15.02.2015" napr="0" type="1" og="1" ves="000" hmr="1" sob="0" time1="21 фев 2015-18:20" time2="24 фев 2015-16:55" kol="1" />
+  <act730 numkf="0" rb="true" vk="0" numvag="58199134,58173436,76605682,50894864 " otpravka="23.02.2015" napr="0" type="1" og="1" ves="000" hmr="1" sob="0" time1="27 фев 2015-04:36" time2="27 фев 2015-15:50" kol="4" />
+  <act731 numkf="0" rb="true" vk="0" numvag="9 ВАГОНОВ СМ.В АКТЕ" otpravka="22.02.2015" napr="0" type="1" og="1" ves="000" hmr="1" sob="0" time1="26 фев 2015-16:37" time2="27 фев 2015-15:50" kol="9" />
+  <act732 numkf="0" rb="true" vk="1" numvag="9395918,5177057" otpravka="23.02.2015" napr="0" type="1" og="1" ves="46" hmr="1" sob="0" time1="25 фев 2015-11:00" time2="27 фев 2015-14:00" kol="1" />
+  <act795 numkf="0" rb="false" vk="0" numvag="5 ВАГОНОВ" otpravka="28.02.2015" napr="0" type="0" og="1" ves="0" hmr="1" sob="0" time1="01 мар 2015-21:55" time2="02 мар 2015-12:56" kol="5" />
+  <act835 numkf="0" rb="false" vk="0" numvag="52820107, 54779343, 57610115, 59157065" otpravka="27.02.2015" napr="0" type="0" og="1" ves="000" hmr="1" sob="0" time1="01 мар 2015-07:49" time2="04 мар 2015-12:56" kol="4" />
+  <act836 numkf="0" rb="false" vk="0" numvag="56809114, 52825775, 52931821" otpravka="28.02.2015" napr="0" type="0" og="1" ves="000" hmr="1" sob="0" time1="04 мар 2015-09:51" time2="04 мар 2015-12:56" kol="3" />
+  <act850 numkf="0" rb="true" vk="0" numvag="26285999" otpravka="05.03.2015" napr="1" type="0" og="1" ves="64" hmr="1" sob="1" time1="06 мар 2015-03:00" time2="06 мар 2015-17:00" kol="1" />
+  <act869 numkf="0" rb="true" vk="1" numvag="94502572" otpravka="06.03.2015" napr="0" type="1" og="1" ves="13" hmr="1" sob="1" time1="08 мар 2015-23:30" time2="09 мар 2015-11:30" kol="1" />
+  <act870 numkf="0" rb="true" vk="0" numvag="77221406,77221455" otpravka="04.03.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="07 мар 2015-13:55" time2="09 мар 2015-11:45" kol="2" />
+  <act871 numkf="0" rb="true" vk="0" numvag="59434183" otpravka="03.03.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="06 мар 2015-18:37" time2="09 мар 2015-13:30" kol="1" />
+  <act872 numkf="0" rb="true" vk="0" numvag="53009999" otpravka="06.03.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="09 мар 2015-02:01" time2="09 мар 2015-13:30" kol="1" />
+  <act873 numkf="0" rb="true" vk="0" numvag="53009882,53009817,53009692" otpravka="06.03.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="09 мар 2015-02:01" time2="09 мар 2015-13:30" kol="3" />
+  <act874 numkf="0" rb="true" vk="0" numvag="53009668,53009528" otpravka="06.03.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="09 мар 2015-02:01" time2="09 мар 2015-13:30" kol="2" />
+  <act886 numkf="0" rb="false" vk="0" numvag="7 ВАГОНОВ" otpravka="07.03.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="10 мар 2015-09:18" time2="10 мар 2015-17:00" kol="7" />
+  <act887 numkf="0" rb="false" vk="0" numvag="2 ВАГОНА" otpravka="07.03.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="10 мар 2015-09:18" time2="10 мар 2015-17:00" kol="2" />
+  <act929 numkf="0" rb="false" vk="0" numvag="56078066" otpravka="11.03.2015" napr="0" type="0" og="1" ves="0" hmr="1" sob="0" time1="14 мар 2015-18:00" time2="16 мар 2015-13:30" kol="1" />
+  <act956 numkf="0" rb="true" vk="0" numvag="СМ.НА ОБОРОТЕ АКТА" otpravka="17.03.2015" napr="0" type="1" og="1" ves="000" hmr="1" sob="0" time1="17 мар 2015-22:00" time2="19 мар 2015-10:00" kol="8" />
+  <act957 numkf="0" rb="true" vk="0" numvag="57339004" otpravka="15.03.2015" napr="0" type="0" og="1" ves="000" hmr="1" sob="0" time1="19 мар 2015-05:00" time2="19 мар 2015-12:00" kol="1" />
+  <act1095 numkf="0" rb="false" vk="0" numvag="60081312" otpravka="23.03.2015" napr="0" type="0" og="1" ves="50" hmr="1" sob="0" time1="29 мар 2015-04:00" time2="06 апр 2015-08:00" kol="1" />
+  <act1151 numkf="0" rb="false" vk="0" numvag="4 ВАГОНА" otpravka="06.04.2015" napr="0" type="1" og="0" ves="131" hmr="1" sob="0" time1="12 апр 2015-23:35" time2="13 апр 2015-15:30" kol="4" />
+  <act1152 numkf="0" rb="true" vk="1" numvag="8412571" otpravka="10.04.2015" napr="0" type="1" og="1" ves="19" hmr="1" sob="0" time1="12 апр 2015-21:00" time2="13 апр 2015-15:00" kol="1" />
+  <act1238 numkf="0" rb="true" vk="0" numvag="68374719" otpravka="30.04.2015" napr="0" type="0" og="1" ves="66" hmr="1" sob="1" time1="03 май 2015-08:00" time2="04 май 2015-12:00" kol="1" />
+  <act1253 numkf="0" rb="true" vk="0" numvag="53009726 " otpravka="03.05.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="04 май 2015-18:39" time2="05 май 2015-15:00" kol="1" />
+  <act1254 numkf="0" rb="true" vk="0" numvag="53009726 " otpravka="03.05.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="04 май 2015-18:39" time2="05 май 2015-15:00" kol="1" />
+  <act1255 numkf="0" rb="true" vk="0" numvag="53009577" otpravka="03.05.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="04 май 2015-18:39" time2="05 май 2015-15:00" kol="1" />
+  <act1264 numkf="0" rb="true" vk="1" numvag="9101398" otpravka="04.05.2015" napr="0" type="1" og="1" ves="25" hmr="1" sob="1" time1="06 май 2015-15:00" time2="07 май 2015-10:00" kol="1" />
+  <act1312 numkf="0" rb="true" vk="0" numvag="59791798, 59887349, 59889857" otpravka="12.05.2015" napr="1" type="1" og="1" ves="000" hmr="1" sob="0" time1="13 май 2015-20:00" time2="14 май 2015-14:00" kol="3" />
+  <act1313 numkf="0" rb="true" vk="1" numvag="9655351" otpravka="08.05.2015" napr="0" type="1" og="1" ves="23" hmr="1" sob="1" time1="13 май 2015-22:00" time2="14 май 2015-13:00" kol="1" />
+  <act1418 numkf="0" rb="true" vk="0" numvag="51038065" otpravka="22.05.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="28 май 2015-00:30" time2="28 май 2015-11:30" kol="1" />
+  <act1491 numkf="0" rb="true" vk="1" numvag="94282159" otpravka="05.06.2015" napr="0" type="1" og="1" ves="11" hmr="1" sob="1" time1="07 июн 2015-02:00" time2="08 июн 2015-17:00" kol="1" />
+  <act1521 numkf="0" rb="true" vk="1" numvag="2949500" otpravka="11.06.2015" napr="0" type="1" og="1" ves="23" hmr="1" sob="1" time1="15 июн 2015-02:00" time2="15 июн 2015-10:15" kol="1" />
+  <act1560 numkf="0" rb="true" vk="0" numvag="68709765,68044882" otpravka="18.06.2015" napr="0" type="0" og="1" ves="124" hmr="1" sob="1" time1="19 июн 2015-03:00" time2="19 июн 2015-12:15" kol="2" />
+  <act1597 numkf="0" rb="true" vk="0" numvag="51568376,51188373" otpravka="18.06.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="25 июн 2015-03:00" time2="25 июн 2015-16:00" kol="2" />
+  <act1602 numkf="0" rb="true" vk="1" numvag="94255353" otpravka="23.06.2015" napr="1" type="1" og="1" ves="26" hmr="1" sob="1" time1="25 июн 2015-21:00" time2="26 июн 2015-09:00" kol="1" />
+  <act1618 numkf="0" rb="true" vk="1" numvag="94370483" otpravka="25.06.2015" napr="0" type="1" og="1" ves="20" hmr="1" sob="1" time1="26 июн 2015-23:00" time2="29 июн 2015-15:14" kol="1" />
+  <act1735 numkf="0" rb="false" vk="0" numvag="94533056 94772746 94729340 94535853" otpravka="17.07.2015" napr="0" type="1" og="0" ves="232" hmr="1" sob="1" time1="19 июл 2015-06:00" time2="19 июл 2015-17:00" kol="4" />
+  <act1736 numkf="0" rb="true" vk="0" numvag="63625156  68430222" otpravka="19.07.2015" napr="0" type="0" og="1" ves="135" hmr="1" sob="1" time1="19 июл 2015-06:00" time2="19 июл 2015-17:00" kol="2" />
+  <act1741 numkf="0" rb="true" vk="0" numvag="65431728" otpravka="15.07.2015" napr="0" type="0" og="1" ves="71" hmr="1" sob="1" time1="17 июл 2015-19:00" time2="20 июл 2015-11:30" kol="1" />
+  <act1742 numkf="0" rb="true" vk="0" numvag="53009833" otpravka="17.07.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="19 июл 2015-21:22" time2="20 июл 2015-16:30" kol="1" />
+  <act1745 numkf="0" rb="false" vk="0" numvag="52151784" otpravka="17.07.2015" napr="0" type="0" og="1" ves="42" hmr="1" sob="0" time1="19 июл 2015-17:46" time2="20 июл 2015-16:30" kol="1" />
+  <act1746 numkf="0" rb="false" vk="0" numvag="42023374,42071472,42071340" otpravka="16.07.2015" napr="0" type="0" og="1" ves="0" hmr="1" sob="0" time1="20 июл 2015-08:55" time2="20 июл 2015-16:30" kol="3" />
+  <act1747 numkf="0" rb="false" vk="0" numvag="42070797,42071407" otpravka="16.07.2015" napr="0" type="0" og="1" ves="0" hmr="1" sob="0" time1="18 июл 2015-19:05" time2="20 июл 2015-16:30" kol="2" />
+  <act1748 numkf="0" rb="false" vk="0" numvag="42037879" otpravka="15.07.2015" napr="0" type="0" og="1" ves="0" hmr="1" sob="0" time1="19 июл 2015-00:20" time2="20 июл 2015-16:30" kol="1" />
+  <act1753 numkf="0" rb="false" vk="0" numvag="4 ВАГОНА" otpravka="15.07.2015" napr="0" type="1" og="0" ves="250" hmr="1" sob="0" time1="22 июл 2015-13:23" time2="23 июл 2015-11:55" kol="4" />
+  <act1790 numkf="0" rb="true" vk="1" numvag="94532025" otpravka="22.07.2015" napr="0" type="1" og="1" ves="25" hmr="1" sob="1" time1="26 июл 2015-10:30" time2="27 июл 2015-15:10" kol="1" />
+  <act1804 numkf="0" rb="false" vk="0" numvag="7 ВАГОНОВ " otpravka="25.07.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="27 июл 2015-04:57" time2="28 июл 2015-16:05" kol="7" />
+  <act1845 numkf="0" rb="false" vk="0" numvag="52598836" otpravka="03.08.2015" napr="0" type="0" og="0" ves="66" hmr="1" sob="0" time1="01 авг 2015-08:00" time2="03 авг 2015-10:00" kol="1" />
+  <act1846 numkf="0" rb="false" vk="0" numvag="52537594" otpravka="03.08.2015" napr="0" type="0" og="1" ves="66" hmr="1" sob="0" time1="01 авг 2015-08:00" time2="03 авг 2015-10:00" kol="1" />
+  <act1857 numkf="0" rb="true" vk="1" numvag="5737866" otpravka="29.07.2015" napr="0" type="1" og="1" ves="15" hmr="1" sob="1" time1="01 авг 2015-17:30" time2="03 авг 2015-17:00" kol="1" />
+  <act1864 numkf="0" rb="false" vk="0" numvag="52811346" otpravka="29.07.2015" napr="0" type="0" og="1" ves="0" hmr="1" sob="0" time1="03 авг 2015-15:00" time2="04 авг 2015-10:00" kol="1" />
+  <act1877 numkf="0" rb="true" vk="0" numvag="52434545" otpravka="03.08.2015" napr="1" type="0" og="1" ves="0" hmr="1" sob="0" time1="04 авг 2015-23:00" time2="05 авг 2015-11:00" kol="1" />
+  <act1878 numkf="0" rb="true" vk="0" numvag="52050523" otpravka="03.08.2015" napr="1" type="0" og="1" ves="0" hmr="1" sob="0" time1="04 авг 2015-23:00" time2="05 авг 2015-11:00" kol="1" />
+  <act1958 numkf="0" rb="false" vk="0" numvag="68814359" otpravka="07.08.2015" napr="1" type="0" og="1" ves="70" hmr="1" sob="0" time1="15 авг 2015-00:00" time2="18 авг 2015-13:00" kol="1" />
+  <act1969 numkf="0" rb="true" vk="0" numvag="53009742, 53009809" otpravka="15.08.2015" napr="0" type="1" og="1" ves="000" hmr="1" sob="0" time1="18 авг 2015-23:34" time2="19 авг 2015-13:40" kol="2" />
+  <act2010 numkf="0" rb="false" vk="0" numvag="5 ВАГОНОВ" otpravka="21.08.2015" napr="0" type="1" og="1" ves="345" hmr="1" sob="0" time1="25 авг 2015-09:00" time2="26 авг 2015-20:00" kol="5" />
+  <act2099 numkf="0" rb="true" vk="1" numvag="94868924" otpravka="04.09.2015" napr="0" type="1" og="1" ves="36" hmr="1" sob="0" time1="10 сен 2015-11:00" time2="10 сен 2015-17:00" kol="1" />
+  <act2117 numkf="0" rb="true" vk="1" numvag="0019378" otpravka="10.09.2015" napr="0" type="1" og="1" ves="22" hmr="1" sob="1" time1="12 сен 2015-19:30" time2="14 сен 2015-10:00" kol="1" />
+  <act2118 numkf="0" rb="true" vk="1" numvag="3861815" otpravka="10.09.2015" napr="0" type="1" og="1" ves="23" hmr="1" sob="1" time1="12 сен 2015-19:30" time2="14 сен 2015-10:00" kol="1" />
+  <act2139 numkf="0" rb="false" vk="0" numvag="60368370  60122041  62478219" otpravka="11.09.2015" napr="0" type="0" og="1" ves="000" hmr="1" sob="0" time1="14 сен 2015-18:00" time2="16 сен 2015-12:00" kol="3" />
+  <act2262 numkf="0" rb="true" vk="0" numvag="52614625 52614674" otpravka="01.10.2015" napr="1" type="0" og="1" ves="0" hmr="1" sob="0" time1="04 окт 2015-02:00" time2="04 окт 2015-11:00" kol="2" />
+  <act2267 numkf="0" rb="true" vk="1" numvag="0726920" otpravka="03.10.2015" napr="0" type="1" og="1" ves="26" hmr="1" sob="1" time1="05 окт 2015-07:00" time2="05 окт 2015-11:00" kol="1" />
+  <act2273 numkf="0" rb="false" vk="0" numvag="26431593" otpravka="01.10.2015" napr="0" type="0" og="1" ves="40" hmr="1" sob="0" time1="05 окт 2015-20:53" time2="06 окт 2015-14:15" kol="1" />
+  <act2222 numkf="0" rb="true" vk="0" numvag="22665530" otpravka="08.10.2015" napr="0" type="1" og="1" ves="23" hmr="1" sob="1" time1="07 окт 2015-18:30" time2="08 окт 2015-10:26" kol="1" />
+  <act2280 numkf="0" rb="true" vk="1" numvag="94351848" otpravka="03.10.2015" napr="0" type="1" og="1" ves="21" hmr="1" sob="1" time1="07 окт 2015-18:30" time2="08 окт 2015-12:10" kol="1" />
+  <act2400 numkf="0" rb="true" vk="1" numvag="94535531" otpravka="20.10.2015" napr="0" type="1" og="1" ves="19" hmr="1" sob="1" time1="23 окт 2015-18:00" time2="27 окт 2015-14:00" kol="1" />
+  <act2401 numkf="0" rb="true" vk="0" numvag="50335744" otpravka="24.10.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="26 окт 2015-18:00" time2="27 окт 2015-16:00" kol="1" />
+  <act2409 numkf="0" rb="true" vk="0" numvag="21627310" otpravka="21.10.2015" napr="0" type="0" og="1" ves="48" hmr="1" sob="0" time1="25 окт 2015-14:00" time2="27 окт 2015-21:30" kol="1" />
+  <act2547 numkf="0" rb="false" vk="0" numvag="29811999" otpravka="07.11.2015" napr="0" type="0" og="1" ves="67" hmr="1" sob="0" time1="17 ноя 2015-12:00" time2="19 ноя 2015-08:00" kol="1" />
+  <act2548 numkf="0" rb="false" vk="0" numvag="29422698" otpravka="07.11.2015" napr="0" type="0" og="1" ves="67" hmr="1" sob="0" time1="18 ноя 2015-10:00" time2="19 ноя 2015-08:00" kol="1" />
+  <act2549 numkf="0" rb="false" vk="0" numvag="57093260,73028631,57069221,73028417,57092439,73020828" otpravka="14.11.2015" napr="0" type="1" og="1" ves="000" hmr="1" sob="0" time1="18 ноя 2015-19:00" time2="19 ноя 2015-15:00" kol="6" />
+  <act2561 numkf="0" rb="false" vk="0" numvag="73020232" otpravka="12.11.2015" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="18 ноя 2015-19:00" time2="20 ноя 2015-11:00" kol="1" />
+  <act2587 numkf="0" rb="false" vk="0" numvag="73035404" otpravka="12.11.2015" napr="0" type="1" og="0" ves="000" hmr="1" sob="0" time1="22 ноя 2015-06:00" time2="23 ноя 2015-17:00" kol="1" />
+  <act2611 numkf="0" rb="false" vk="0" numvag="29257698" otpravka="07.11.2015" napr="0" type="0" og="1" ves="67" hmr="0" sob="0" time1="17 ноя 2015-12:00" time2="19 ноя 2015-08:00" kol="1" />
+  <act2612 numkf="0" rb="false" vk="0" numvag="52640794" otpravka="07.11.2015" napr="0" type="0" og="1" ves="67" hmr="0" sob="0" time1="17 ноя 2015-12:00" time2="19 ноя 2015-08:00" kol="1" />
+  <act2626 numkf="0" rb="false" vk="0" numvag="61477345" otpravka="23.11.2015" napr="0" type="0" og="1" ves="000" hmr="1" sob="0" time1="28 ноя 2015-12:00" time2="30 ноя 2015-11:00" kol="1" />
+  <act2677 numkf="0" rb="false" vk="0" numvag="60441201" otpravka="03.12.2015" napr="0" type="0" og="1" ves="0" hmr="1" sob="0" time1="05 дек 2015-09:00" time2="07 дек 2015-13:00" kol="1" />
+  <act2688 numkf="0" rb="false" vk="0" numvag="60441201" otpravka="03.12.2015" napr="0" type="0" og="1" ves="0" hmr="1" sob="0" time1="05 дек 2015-09:00" time2="07 дек 2015-13:00" kol="1" />
+  <act2689 numkf="0" rb="false" vk="0" numvag="42026369" otpravka="04.12.2015" napr="0" type="0" og="1" ves="0" hmr="1" sob="0" time1="06 дек 2015-08:00" time2="07 дек 2015-14:00" kol="1" />
+  <act2715 numkf="0" rb="false" vk="0" numvag="62478169" otpravka="03.12.2015" napr="0" type="0" og="1" ves="000" hmr="0" sob="0" time1="09 дек 2015-02:00" time2="09 дек 2015-10:00" kol="1" />
+  <act2716 numkf="0" rb="false" vk="0" numvag="55751416" otpravka="03.12.2015" napr="0" type="0" og="1" ves="000" hmr="0" sob="0" time1="09 дек 2015-02:00" time2="09 дек 2015-10:00" kol="1" />
+  <act2763 numkf="0" rb="false" vk="0" numvag="73908063,51377752,55921670,57184673" otpravka="11.12.2015" napr="0" type="1" og="0" ves="000" hmr="1" sob="0" time1="15 дек 2015-20:00" time2="16 дек 2015-14:00" kol="4" />
+  <act2771 numkf="0" rb="true" vk="0" numvag="59002543/20" otpravka="16.12.2015" napr="0" type="1" og="1" ves="000" hmr="1" sob="0" time1="17 дек 2015-01:00" time2="17 дек 2015-09:00" kol="1" />
+  <act1781 numkf="0" rb="false" vk="0" numvag="95039855" otpravka="15.12.2015" napr="0" type="1" og="1" ves="0" hmr="0.5" sob="0" time1="17 дек 2015-22:00" time2="18 дек 2015-11:00" kol="1" />
+  <act1782 numkf="0" rb="false" vk="0" numvag="95054565" otpravka="15.12.2015" napr="0" type="1" og="1" ves="0" hmr="0.5" sob="0" time1="17 дек 2015-22:00" time2="18 дек 2015-11:00" kol="1" />
+  <act2782 numkf="0" rb="false" vk="0" numvag="95054565" otpravka="15.12.2015" napr="0" type="1" og="1" ves="0" hmr="0.5" sob="0" time1="17 дек 2015-22:00" time2="18 дек 2015-11:00" kol="1" />
+  <act2783 numkf="0" rb="false" vk="0" numvag="95055687" otpravka="15.12.2015" napr="0" type="1" og="1" ves="0" hmr="0.5" sob="0" time1="17 дек 2015-22:00" time2="18 дек 2015-11:00" kol="1" />
+  <act2784 numkf="0" rb="false" vk="0" numvag="95054110" otpravka="15.12.2015" napr="0" type="1" og="1" ves="0" hmr="0.5" sob="0" time1="17 дек 2015-22:00" time2="18 дек 2015-11:00" kol="1" />
+  <act2785 numkf="0" rb="false" vk="0" numvag="95056347" otpravka="15.12.2015" napr="0" type="1" og="1" ves="0" hmr="0.5" sob="0" time1="17 дек 2015-22:00" time2="18 дек 2015-11:00" kol="1" />
+  <act2786 numkf="0" rb="false" vk="0" numvag="95054441" otpravka="15.12.2015" napr="0" type="1" og="1" ves="0" hmr="0.5" sob="0" time1="17 дек 2015-22:00" time2="18 дек 2015-11:00" kol="1" />
+  <act2797 numkf="0" rb="true" vk="0" numvag="42216630" otpravka="18.12.2015" napr="1" type="1" og="1" ves="22" hmr="1" sob="0" time1="19 дек 2015-19:00" time2="19 дек 2015-22:00" kol="1" />
+  <act2814 numkf="0" rb="true" vk="0" numvag="28067114/24" otpravka="15.12.2015" napr="0" type="0" og="1" ves="63" hmr="0.5" sob="1" time1="20 дек 2015-20:00" time2="21 дек 2015-10:00" kol="1" />
+  <act2815 numkf="0" rb="true" vk="0" numvag="28066850/24" otpravka="15.12.2015" napr="0" type="0" og="1" ves="63" hmr="0.5" sob="1" time1="20 дек 2015-20:00" time2="21 дек 2015-10:00" kol="1" />
+  <act2856 numkf="0" rb="true" vk="1" numvag="94722865" otpravka="22.12.2015" napr="0" type="1" og="1" ves="17" hmr="1" sob="1" time1="25 дек 2015-15:30" time2="26 дек 2015-11:00" kol="1" />
+  <act2864 numkf="0" rb="false" vk="0" numvag="61858650" otpravka="24.12.2015" napr="1" type="0" og="1" ves="000" hmr="1" sob="0" time1="27 дек 2015-09:00" time2="28 дек 2015-16:00" kol="1" />
+  <act2872 numkf="0" rb="false" vk="0" numvag="52204708,54399654" otpravka="28.12.2015" napr="0" type="0" og="1" ves="000" hmr="1" sob="0" time1="29 дек 2015-00:11" time2="29 дек 2015-15:00" kol="2" />
+  <act2852 numkf="0" rb="false" vk="0" numvag="4 ВАГОНА" otpravka="24.12.2015" napr="0" type="1" og="0" ves="0" hmr="1" sob="0" time1="30 дек 2015-19:00" time2="31 дек 2015-10:00" kol="4" />
+  <act7 numkf="0" rb="false" vk="0" numvag="95901708" otpravka="30.12.2015" napr="0" type="1" og="1" ves="67" hmr="1" sob="0" time1="02 янв 2016-05:00" time2="02 янв 2016-14:00" kol="1" />
+  <act8 numkf="0" rb="false" vk="0" numvag="64622269" otpravka="03.12.2015" napr="0" type="0" og="1" ves="0" hmr="1" sob="0" time1="01 янв 2016-20:00" time2="04 янв 2016-10:00" kol="1" />
+  <act27 numkf="0" rb="false" vk="0" numvag="60914439" otpravka="04.01.2016" napr="0" type="0" og="1" ves="0" hmr="1" sob="0" time1="06 янв 2016-03:00" time2="11 янв 2016-08:00" kol="1" />
+  <act28 numkf="0" rb="false" vk="0" numvag="55033435" otpravka="05.01.2016" napr="0" type="0" og="1" ves="69" hmr="1" sob="0" time1="09 янв 2016-23:00" time2="12 янв 2016-15:00" kol="1" />
+  <act32 numkf="0" rb="false" vk="1" numvag="0474673" otpravka="28.12.2015" napr="0" type="1" og="1" ves="4" hmr="1" sob="0" time1="13 янв 2016-23:00" time2="14 янв 2016-14:00" kol="1" />
+  <act42 numkf="0" rb="true" vk="0" numvag="53009619 53009866 53009544" otpravka="13.01.2016" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="15 янв 2016-21:23" time2="16 янв 2016-14:00" kol="3" />
+  <act55 numkf="0" rb="true" vk="0" numvag="95135760,95054185" otpravka="17.01.2016" napr="0" type="1" og="1" ves="137" hmr="1" sob="0" time1="18 янв 2016-21:00" time2="19 янв 2016-08:00" kol="2" />
+  <act61 numkf="0" rb="false" vk="0" numvag="50689702" otpravka="18.01.2016" napr="0" type="1" og="1" ves="0" hmr="1" sob="0" time1="19 янв 2016-23:00" time2="20 янв 2016-12:40" kol="1" />
+  <act62 numkf="0" rb="false" vk="0" numvag="60206562" otpravka="18.01.2016" napr="0" type="0" og="1" ves="0" hmr="1" sob="0" time1="19 янв 2016-23:00" time2="20 янв 2016-15:00" kol="1" />
+  <act79 numkf="0" rb="false" vk="0" numvag="32 ВАГОНА" otpravka="21.01.2016" napr="0" type="1" og="1" ves="407" hmr="1" sob="0" time1="22 янв 2016-01:09" time2="22 янв 2016-11:15" kol="32" />
+  <act105 numkf="0" rb="false" vk="0" numvag="55145734,54358858,54115662" otpravka="24.01.2016" napr="0" type="0" og="1" ves="0" hmr="1" sob="0" time1="26 янв 2016-21:00" time2="27 янв 2016-11:00" kol="3" />
+  <act117 numkf="0" rb="true" vk="1" numvag="8035890" otpravka="26.01.2016" napr="0" type="1" og="1" ves="13" hmr="1" sob="1" time1="28 янв 2016-19:00" time2="29 янв 2016-11:45" kol="1" />
+  <act128 numkf="0" rb="false" vk="0" numvag="51269256" otpravka="28.01.2016" napr="0" type="1" og="0" ves="000" hmr="1" sob="0" time1="02 фев 2016-19:00" time2="03 фев 2016-10:00" kol="1" />
+  <act133 numkf="0" rb="false" vk="0" numvag="56053259,59398008" otpravka="01.02.2016" napr="0" type="0" og="1" ves="0" hmr="1" sob="0" time1="03 фев 2016-23:00" time2="04 фев 2016-15:00" kol="2" />
+  <act134 numkf="0" rb="true" vk="1" numvag="8035890" otpravka="26.01.2016" napr="0" type="1" og="1" ves="13" hmr="1" sob="1" time1="28 янв 2016-19:00" time2="29 янв 2016-11:45" kol="1" />
+</acts>
