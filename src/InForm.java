@@ -17,7 +17,7 @@ import java.util.Date;
 
 
 
-//Главный класс
+
 public class InForm extends JDialog
 {
   /**
