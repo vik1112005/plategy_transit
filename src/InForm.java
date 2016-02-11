@@ -25,7 +25,7 @@ public class InForm extends JDialog
 	 */
 	private static final long serialVersionUID = 1L;
 	
-	// онтейнер вкладок
+	
 	   private JTabbedPane p = new JTabbedPane();
 	   //списки дл€ вывода на печать
 	   private ArrayList<String> nameList,valueList;
